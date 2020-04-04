@@ -1,0 +1,11 @@
+body {
+  background-color: #ef00ef;
+}
+form {
+  display: none;
+}
+.ariesBackground {
+  display: none;
+  background-color: #ef0000;
+}
+
